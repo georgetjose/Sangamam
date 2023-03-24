@@ -1,0 +1,25 @@
+{
+"Sheet1":
+          [
+            {
+                "UserName": "DemoSalesManager",
+                "Password": "",
+                "Error Message": "password was empty reenter"
+            },
+            {
+                "UserName": "",
+                "Password": "crmsfa",
+                "Error Message": "username was empty reenter"
+            },
+            {
+                "UserName": "DemoSalesManager1",
+                "Password": "crmsfa",
+                "Error Message": "User not found."
+            },
+            {
+                "UserName": "DemoSalesManager",
+                "Password": "crmsfa1",
+                "Error Message": "Password incorrect."
+            }
+          ]
+}
